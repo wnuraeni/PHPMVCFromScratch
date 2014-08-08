@@ -1,0 +1,29 @@
+/* 
+    Document   : style
+    Created on : Apr 11, 2012, 8:51:28 PM
+    Author     : user
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#container{
+    width:1000px;
+    margin: auto;
+}
+#header{ 
+    width: 1000px;
+    height: 80px;
+    float :left;
+    background-color: #00ffff;
+}
+#sidecontent{
+    clear:left;
+    width:150px;
+    height:100%;
+    float:left;
+}
+#maincontent{
+    width:850px;
+    height:100px;
+    float:left;
+}
+
